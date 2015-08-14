@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>&lt;font face=&quot;helvetica&quot; font color=&quot;#2E7B1B&quot;&gt;Boat Launch Sites&lt;/font&gt;</name>
+	<NetworkLink>
+		<name>Boat Launch Sites</name>
+		<open>1</open>
+		<snippet>Data is automatically updated whenever the file is opened.  
+Right-click and select &quot;Refresh&quot; for additional updates.</snippet>
+		<styleUrl>#TOC</styleUrl>
+		<Style id="TOC">
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>4</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<refreshVisibility>1</refreshVisibility>
+		<flyToView>1</flyToView>
+		<Link>
+			<href>http://www.dec.ny.gov/maps/boatlaunch.kmz</href>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
