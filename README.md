@@ -1,5 +1,4 @@
-# Place sto launch you kayak (An  exerscise in google maps api)
-)
+# Places to launch you kayak (An  exerscise in google maps api)
 
 This is a website that uses google maps api (3.0) to place markers on a map showing suitable places to launch a kayak.
 
